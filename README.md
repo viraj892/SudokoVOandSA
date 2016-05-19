@@ -1,5 +1,5 @@
 # SudokoVOandSA
-A sudoku solving AI agent using Vertext ordering and Simulated Annealing
+A sudoku solving AI agent using Vertex ordering and Simulated Annealing
 
 Test cases for 3 levels of difficulty are provided along with source code
 
